@@ -1,6 +1,6 @@
 # Olá! Eu sou o Querley! 👨‍💻
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no SENAI Fatesg (3º período) e estou sempre em busca de novos desafios na área de tecnologia. Tenho experiência como professor de inglês e tradutor, mas descobri minha verdadeira paixão na programação e inteligência artificial. Adoro explorar novas tecnologias e contribuir com projetos que fazem a diferença!
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no SENAI Fatesg (4º período) e estou sempre em busca de novos desafios na área de tecnologia. Tenho experiência como professor de inglês e tradutor, mas descobri minha verdadeira paixão na programação e inteligência artificial. Adoro explorar novas tecnologias e contribuir com projetos que fazem a diferença!
 
 ## 📊 GitHub Stats
 
